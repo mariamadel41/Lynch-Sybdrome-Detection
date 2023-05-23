@@ -1,0 +1,11 @@
+ANNOVAR Version:
+	$Date: 2020-06-07 23:56:37 -0400 (Sun,  7 Jun 2020) $
+ANNOVAR Information:
+	For questions, comments, documentation, bug reports and program update, please visit http://www.openbioinformatics.org/annovar/
+ANNOVAR Command:
+	tools/annovar/annotate_variation.pl -geneanno -dbtype refGene output.avinput tools/annovar/humandb/
+ANNOVAR Started:
+	Wed May 24 00:26:50 2023
+NOTICE: The --buildver is set as 'hg18' by default
+NOTICE: Output files are written to output.avinput.variant_function, output.avinput.exonic_variant_function
+NOTICE: Reading gene annotation from tools/annovar/humandb/hg18_refGene.txt ... Done with 78078 transcripts (including 18228 without coding sequence annotation) for 28187 unique genes
