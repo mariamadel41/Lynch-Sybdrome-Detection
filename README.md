@@ -44,7 +44,7 @@ To run the analysis, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/mariamadel41Lynch-Sybdrome-Detection.git
+   git clone https://github.com/mariamadel41/Lynch-Sybdrome-Detection.git
    
 2. Set up the necessary data files, reference genome, and tools as described above.
 3. Modify the script files if required to match your specific file paths and configurations.
