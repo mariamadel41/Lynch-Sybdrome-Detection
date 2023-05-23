@@ -30,8 +30,7 @@ chmod +x "$trimmomatic_jar"
 java -jar "$trimmomatic_jar"
 
 # Step 4: Index the human genome
-reference_genome="reference2/reference_genome.fasta"
-bwa index "$reference_genome"
+reference_genome="reference2/Homo_sapiens_assembly38.fasta"
 
 # Step 5: Alignment
 aligned_sam="aligned.sam"
