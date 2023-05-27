@@ -1,5 +1,5 @@
 # Lynch-Sybdrome-Detection
-a bash script using fastq file to detect lynch syndrom (hereditary nonpolyposis colorectal cancer (HNPCC))
+A bash script using fastq file to detect Lynch syndrome (hereditary nonpolyposis colorectal cancer (HNPCC)).
 This project aims to detect Lynch syndrome.
 
 ## Data Files
@@ -45,25 +45,23 @@ To run the analysis, follow these steps:
 
    ```bash
    git clone https://github.com/mariamadel41/Lynch-Sybdrome-Detection.git
-   
+
 2. Set up the necessary data files, reference genome, and tools as described above.
+
 3. Modify the script files if required to match your specific file paths and configurations.
+
 4. Run the main script:
-    
+
    ```bash
-   bash run_analysis.sh
-   
+
+    bash run_analysis.sh /path/file.fastq
+
 This will execute the entire analysis pipeline.
 
-# License
+## License
 
 This project is licensed under the MIT License.
 
 Feel free to customize the content and formatting of the `README.md` file according to your project's specific requirements.
 
-
-
-   
- 
-   
-   
+Please make sure to replace the placeholder paths and descriptions with the actual ones relevant to your project.
