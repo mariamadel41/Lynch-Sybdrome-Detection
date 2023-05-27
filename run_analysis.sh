@@ -42,4 +42,5 @@ grep -E 'MLH1|MSH2|MSH6|PMS2|EPCAM' "$output_avinput_function" > "$lynch_positio
 
 
 # Clean up by deleting unnecessary files
-rm -f "$aligned_sam" "$aligned_bam" "$variants_vcf" "$output_avinput" "$output_file" "$output_avinput_function"
+rm -f "$aligned_sam" "$aligned_bam" "$variants_vcf" "$output_avinput" "$output_avinput_function" "output.avinput.exonic_variant_function" "output.avinput.log"
+
